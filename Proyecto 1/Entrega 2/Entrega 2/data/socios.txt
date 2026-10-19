@@ -1,0 +1,10 @@
+Juan Perez;juan@mail.com;Sub-15;15;Intermedio;1080;1000;1000;19284.6
+Pedro Gomez;pedro@mail.com;Sub-15;14;Intermedio;920;1000;1000;300.0
+Maria Lopez;maria@mail.com;Sub-17;17;Intermedio;1000;1000;1000;0.0
+Andres Torres;andres@mail.com;Mayores;18;Avanzado;1000;1000;1000;0.0
+Lucia Ramirez;lucia@mail.com;Sub-13;13;Principiante;1000;1000;1000;0.0
+Carlos Diaz;carlos@mail.com;Sub-15;14;Principiante;1000;1000;1000;0.0
+Laura Castro;laura@mail.com;Sub-15;15;Intermedio;1000;1000;1000;0.0
+Diego Mora;diego@mail.com;Sub-15;14;Principiante;1000;1000;1000;0.0
+Sofia Vargas;sofia@mail.com;Sub-15;15;Principiante;1000;1000;1000;0.0
+Mateo Rojas;mateo@mail.com;Sub-15;14;Principiante;1000;1000;1000;0.0

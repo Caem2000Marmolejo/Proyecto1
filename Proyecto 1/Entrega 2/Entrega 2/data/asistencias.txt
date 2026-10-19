@@ -1,0 +1,9 @@
+2025-07-10;Juan Perez;Asistio;4;Buen desempeno
+2025-07-10;Pedro Gomez;Llego tarde;3;Llego 10 minutos tarde
+2025-07-10;Maria Lopez;Falto;0;
+2025-07-10;Juan Perez;Asistio;4;Buen desempeno
+2025-07-10;Pedro Gomez;Llego tarde;3;Llego 10 minutos tarde
+2025-07-10;Maria Lopez;Falto;0;
+2025-07-10;Juan Perez;Asistio;4;Buen desempeno
+2025-07-10;Pedro Gomez;Llego tarde;3;Llego 10 minutos tarde
+2025-07-10;Maria Lopez;Falto;0;

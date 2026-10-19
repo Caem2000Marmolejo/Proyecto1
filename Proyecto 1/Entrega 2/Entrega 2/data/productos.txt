@@ -1,0 +1,6 @@
+A;Raqueta Pro;Equipamiento;150000;10
+A;Balon Futbol;Equipamiento;50000;20
+B;Cafe Expreso;Bebida;5000;Caliente
+B;Agua;Bebida;3000;Fria
+S;Galletas;Snack;2500;Gluten
+S;Mani;Snack;2000;Mani

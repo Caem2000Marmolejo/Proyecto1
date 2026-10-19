@@ -1,0 +1,7 @@
+2025-05-22;Articulos+Bebidas+Snacks;252850.0
+2025-05-22;Articulos+Bebidas+Snacks;252850.0
+2025-05-22;Articulos+Bebidas+Snacks;252850.0
+2025-05-22;Articulos+Bebidas+Snacks;252850.0
+2025-05-22;Articulos+Bebidas+Snacks;252850.0
+2025-05-22;Tienda:200000.0|Cafeteria:12500.0;252850.0
+2025-05-22;Tienda:200000.0|Cafeteria:12500.0;252850.0

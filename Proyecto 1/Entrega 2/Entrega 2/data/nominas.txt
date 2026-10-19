@@ -1,0 +1,14 @@
+Los Tigres;Juan Perez;50;false;null
+Los Tigres;Pedro Gomez;2;false;Mediocampista
+Los Tigres;Carlos Diaz;3;false;Mediocampista
+Los Tigres;Laura Castro;4;false;Mediocampista
+Los Tigres;Diego Mora;5;false;Mediocampista
+Los Tigres;Sofia Vargas;6;false;Mediocampista
+Los Tigres;Mateo Rojas;7;false;Mediocampista
+Los Leones;Juan Perez;1;false;Defensa
+Los Leones;Pedro Gomez;2;false;Defensa
+Los Leones;Carlos Diaz;3;false;Defensa
+Los Leones;Laura Castro;4;false;Defensa
+Los Leones;Diego Mora;5;false;Defensa
+Los Leones;Sofia Vargas;6;false;Defensa
+Los Leones;Mateo Rojas;7;false;Defensa

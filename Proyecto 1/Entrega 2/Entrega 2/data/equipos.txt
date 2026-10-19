@@ -1,0 +1,4 @@
+Los Tigres;Futbol;Sub-15;20;7
+Los Leones;Futbol;Sub-15;20;7
+Las Aguilas;Baloncesto;Sub-17;15;5
+Los Reyes;Voleibol;Mayores;12;6
