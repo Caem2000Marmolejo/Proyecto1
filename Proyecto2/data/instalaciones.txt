@@ -1,0 +1,3 @@
+Tenis;4;false
+Padel;4;false
+Tenis de Mesa;4;true
