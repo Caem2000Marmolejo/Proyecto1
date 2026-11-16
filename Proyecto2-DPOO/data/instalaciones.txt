@@ -1,3 +1,0 @@
-C-TEN-1;Tenis;4;false
-C-PAD-1;Padel;4;false
-M-TEN-1;Tenis de Mesa;2;true

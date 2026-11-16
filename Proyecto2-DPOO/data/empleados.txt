@@ -1,2 +1,0 @@
-profe@mail.com;123;Entrenador
-fisio@mail.com;123;Fisioterapeuta

@@ -1,2 +1,0 @@
-Tigres FC;juan@mail.com;10;true;N/A
-Tigres FC;pedro@mail.com;7;false;N/A
